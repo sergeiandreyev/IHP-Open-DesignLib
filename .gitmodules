@@ -1,6 +1,6 @@
 [submodule "2023/TO_Dec"]
-	path = 2023/TO_Dec
+	path = Tapeout_2023/Dec
 	url = ../TO_Dec2023.git
 [submodule "2024/TO_May"]
-	path = 2024/TO_May
+	path = Tapeout_2024/May
 	url = ../TO_May2024.git
